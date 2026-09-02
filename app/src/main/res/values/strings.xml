@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CA_1</string>
+    <string name="title_activity_restaurant_menu_app_ca1">RestaurantMenuApp_CA1</string>
 </resources>
